@@ -38,6 +38,25 @@ const App = () => {
 See that the classes `font-*` are included when you import a font family, this is to make easier 
 the use of the fonts.
 
+## Import All Quick
+
+To import all fonts just copy this
+
+```tsx
+import "swiftie/taylor-swift.css"
+import "swiftie/fearless.css"
+import "swiftie/speak-now.css"
+import "swiftie/red.css"
+import "swiftie/1989.css"
+import "swiftie/reputation.css"
+import "swiftie/lover.css"
+import "swiftie/folklore.css"
+import "swiftie/evermore.css"
+import "swiftie/fearless-tv.css"
+import "swiftie/red-tv.css"
+import "swiftie/midnights.css"
+```
+
 ## All Fonts
 
 In the next table you can see more information about the files, classes and font-family names
