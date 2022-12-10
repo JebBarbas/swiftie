@@ -4,5 +4,8 @@
          url('./fonts/Midnights/pragmaticamedium-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
+}
 
+.font-midnights {
+    font-family: 'Midnights';
 }

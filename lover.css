@@ -4,5 +4,8 @@
          url('./fonts/Lover/satisfy-regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
+}
 
+.font-lover {
+    font-family: 'Lover';
 }

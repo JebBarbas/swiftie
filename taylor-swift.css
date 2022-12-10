@@ -4,5 +4,8 @@
          url('./fonts/TaylorSwift/sacramento-regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
+}
 
+.font-taylor-swift {
+    font-family: 'Taylor Swift';
 }

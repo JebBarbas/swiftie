@@ -1,8 +1,12 @@
 @font-face {
     font-family: 'Evermore';
-    src: url('./fonts/Folklorevermore/imfelldwpica-regular-webfont.woff2') format('woff2'),
-         url('./fonts/Folklorevermore/imfelldwpica-regular-webfont.woff') format('woff');
+    src: url('./fonts/Folklorevermore/imfelldwpica-italic-webfont.woff2') format('woff2'),
+         url('./fonts/Folklorevermore/imfelldwpica-italic-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
+}
+
+.font-evermore {
+    font-family: 'Evermore';
 }
