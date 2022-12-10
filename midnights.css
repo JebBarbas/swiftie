@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'Midnights';
+    font-style: normal;
+    font-display: swap;
+    font-weight: 500;
+    src: url('./fonts/Midnights/PragmaticaMedium.otf') format('otf'); 
+}

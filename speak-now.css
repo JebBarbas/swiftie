@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'Speak Now';
+    font-style: normal;
+    font-display: swap;
+    font-weight: 400;
+    src: url('./fonts/SpeakNow/Rochester-Regular.ttf') format('ttf'); 
+}

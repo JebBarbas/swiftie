@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'Fearless';
+    font-style: italic;
+    font-display: swap;
+    font-weight: 400;
+    src: url('./fonts/Fearless/StolenVersion/Archivo-Italic.ttf') format('ttf'); 
+}

@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'Fearless TV';
+    font-style: italic;
+    font-display: swap;
+    font-weight: 400;
+    src: url('./fonts/Fearless/TaylorsVersion/Montserrat-Italic.ttf') format('ttf'); 
+}

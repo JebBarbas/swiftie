@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'Red';
+    font-style: normal;
+    font-display: swap;
+    font-weight: 400;
+    src: url('./fonts/Red/Anton-Regular.ttf') format('ttf'); 
+}
