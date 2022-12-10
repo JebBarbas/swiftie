@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'Fearless TV';
+    src: url('./fonts/Fearless/TaylorsVersion/montserrat-variablefont_wght-webfont.woff2') format('woff2'),
+         url('./fonts/Fearless/TaylorsVersion/montserrat-variablefont_wght-webfont.woff') format('woff');
+    font-weight: normal;
     font-style: normal;
-    font-display: swap;
-    font-weight: 400;
-    src: url('./fonts/Fearless/TaylorsVersion/Montserrat-Regular.ttf') format('ttf'); 
 }

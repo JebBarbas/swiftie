@@ -1,7 +1,8 @@
 @font-face {
     font-family: '1989';
+    src: url('./fonts/1989/permanentmarker-regular-webfont.woff2') format('woff2'),
+         url('./fonts/1989/permanentmarker-regular-webfont.woff') format('woff');
+    font-weight: normal;
     font-style: normal;
-    font-display: swap;
-    font-weight: 400;
-    src: url('./fonts/1989/PermanentMarker-Regular.ttf') format('ttf'); 
+
 }

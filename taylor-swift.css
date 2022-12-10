@@ -1,7 +1,8 @@
 @font-face {
     font-family: 'Taylor Swift';
+    src: url('./fonts/TaylorSwift/sacramento-regular-webfont.woff2') format('woff2'),
+         url('./fonts/TaylorSwift/sacramento-regular-webfont.woff') format('woff');
+    font-weight: normal;
     font-style: normal;
-    font-display: swap;
-    font-weight: 400;
-    src: url('./fonts/TaylorSwift/Sacramento-Regular.ttf') format('ttf'); 
+
 }

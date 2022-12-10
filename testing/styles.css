@@ -1,0 +1,144 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+
+.container2 {
+    padding: 4rem;
+    display: flex;
+    justify-content: center;
+}
+
+input {
+    padding: 0.5rem;
+    width: 100%;
+}
+
+.font {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 2rem;
+    font-size: 1.5rem;
+}
+
+.font-1989 {
+    font-family: "1989";
+}
+
+.font-evermore {
+    font-family: "Evermore";
+}
+
+.font-fearless {
+    font-family: "Fearless";
+}
+
+.font-fearless-tv {
+    font-family: "Fearless TV";
+}
+
+.font-folklore {
+    font-family: "Folklore";
+}
+
+.font-lover {
+    font-family: "Lover";
+}
+
+.font-midnights {
+    font-family: "Midnights";
+}
+
+.font-red {
+    font-family: "Red";
+}
+
+.font-reputation {
+    font-family: "Reputation";
+}
+
+.font-speak-now {
+    font-family: "Speak Now";
+}
+
+.font-taylor-swift {
+    font-family: "Taylor Swift";
+}
+
+.bg-taylor-swift {
+    background-color: #A0B179;
+    color: black;
+    text-transform: capitalize;
+}
+
+.bg-fearless {
+    background-color: #EAE3D8;
+    color: black;
+    text-transform: uppercase;
+}
+
+.bg-fearless-tv {
+    background-color: #886435;
+    color: white;
+    text-transform: uppercase;
+}
+
+.bg-speak-now {
+    background-color: #872B6F;
+    color: white;
+    text-transform: capitalize;
+}
+
+.bg-red {
+    background-color: #A90035;
+    color: white;
+    text-transform: uppercase;
+}
+
+.bg-red-tv {
+    background-color: #8E2A2C;
+    color: white;
+    text-transform: uppercase;
+}
+
+.bg-1989 {
+    background-color: #416EF0;
+    color: black;
+}
+
+.bg-reputation {
+    background-color: #333333;
+    color: white;
+    text-transform: lowercase;
+}
+
+.bg-lover {
+    background-color: #E8B8D1;
+    color: black;
+    text-transform: capitalize;
+}
+
+.bg-folklore {
+    background-color: #dddddd;
+    color: #333333;
+    text-transform: lowercase;
+}
+
+.bg-evermore {
+    background-color: #DEC1A8;
+    color: black;    
+    text-transform: lowercase;
+}
+
+.bg-midnights {
+    background-color: #020922;
+    color: white;
+    text-transform: capitalize;
+}
