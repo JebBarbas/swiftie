@@ -6,6 +6,7 @@
 .container {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
+    margin-bottom: 4rem;
 }
 
 .container2 {
@@ -26,6 +27,11 @@ input {
     text-align: center;
     padding: 2rem;
     font-size: 1.5rem;
+    cursor: pointer;
+}
+
+.font:hover{
+    transform: scale(1.05);
 }
 
 .bg-taylor-swift {
@@ -97,4 +103,14 @@ input {
     background-color: #020922;
     color: white;
     text-transform: capitalize;
+}
+
+.bigSwiftie {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 100vw;
+    height: 100vh;
+    font-size: 3rem;
 }

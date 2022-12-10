@@ -1,11 +1,11 @@
 @font-face {
-    font-family: 'Red';
+    font-family: 'Red TV';
     src: url('./fonts/Red/anton-regular-webfont.woff2') format('woff2'),
          url('./fonts/Red/anton-regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 
-.font-red {
-    font-family: 'Red';
+.font-red-tv {
+    font-family: 'Red TV';
 }
