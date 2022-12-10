@@ -1,0 +1,20 @@
+{
+  "name": "swiftie",
+  "version": "1.0.0",
+  "description": "Package made by a swiftie developer, use the Taylor Swift fonts in your projects, includes font files and css files to import them easily.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JebBarbas/swiftie.git"
+  },
+  "keywords": ["Taylor", "Swift", "Fonts"],
+  "author": "jebbarbas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JebBarbas/swiftie/issues"
+  },
+  "homepage": "https://github.com/JebBarbas/swiftie#readme"
+}
